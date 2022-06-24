@@ -1,9 +1,0 @@
-input[type="radio"] {
-  display: none;
-}
-
-.starRating {
-  cursor: pointer;
-  transition: color 200ms;
-}
-
